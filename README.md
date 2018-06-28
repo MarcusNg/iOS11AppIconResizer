@@ -1,6 +1,6 @@
-# iOS11AppIconResizer
+# iOS 11 App Icon Resizer
 
-Save your app icon (1024x1024) as a png.
+Save your app icon (1024x1024) as a PNG.
 
 ```
 $ ./iconResizer.sh <appicon.png>
