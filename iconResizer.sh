@@ -39,7 +39,8 @@ convert $FILE -resize 76x76! AppIcon/Icon-App-76x76@1x.png # iPad
 convert $FILE -resize 152x152! AppIcon/Icon-App-76x76@2x.png # iPad
 convert $FILE -resize 228x228! AppIcon/Icon-App-76x76@3x.png # iPad
 convert $FILE -resize 167x167! AppIcon/Icon-App-83.5x83.5@2x.png # iPad Pro
-convert $FILE -resize 512x512! AppIcon/iTunesArtwork@1x.png # App Submissione
+convert $FILE -resize 512x512! AppIcon/iTunesArtwork@1x.png # App Submission
 convert $FILE -resize 1024x1024! AppIcon/iTunesArtwork@2x.png # App Submission
+convert $FILE -resize 1536x1536! AppIcon/iTunesArtwork@3x.png
 
 exit 0
